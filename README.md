@@ -1,138 +1,171 @@
-<h1 align="center">Hi 👋, I'm Charul Agarwal</h1>
+# Hi 👋, I'm Charul Agarwal
+
 <h3 align="center">📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python</h3>
 
-<img align="right" alt="Data Analytics" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=charulagarwal07&label=Profile%20Views&color=0e75b6&style=flat" alt="charulagarwal07" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Data+Into+Actionable+Insights;Always+Learning+and+Building" />
 </p>
+
+---
 
 ## 🚀 About Me
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I enjoy working with data, solving analytical problems, building dashboards, and uncovering trends that drive better decision-making.
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I enjoy solving analytical problems, building dashboards, and uncovering trends that support data-driven decision-making.
 
-- 🌱 Currently learning **Advanced SQL, Power BI, Python, and Data Analytics**
-- 📊 Building real-world Data Analytics projects
-- 💡 Interested in Business Intelligence, Data Visualization, and Data-Driven Decision Making
-- 🎯 Goal: Secure a Data Analyst role and contribute to impactful business solutions
-- 📫 Reach me at: **agarwalcharul510@gmail.com**
-- ⚡ Fun Fact: **I enjoy solving SQL challenges and making analytics fun!**
+* 🌱 Currently learning **Advanced SQL, Power BI, Python, and Data Analytics**
+* 📊 Building real-world analytics projects
+* 💡 Interested in Business Intelligence and Data Visualization
+* 🎯 Seeking Data Analyst Internship and Entry-Level Opportunities
+* 📫 Email: **[agarwalcharul510@gmail.com](mailto:agarwalcharul510@gmail.com)**
+* ⚡ Fun Fact: **I enjoy solving SQL challenges and making analytics fun!**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/charul-agarwal-b4823a281/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/agarwalcharul510" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" width="40" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/agarwalcharul510/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
 
 ## 🛠️ Technical Skills
 
 ### Data Analysis
-- SQL (MySQL)
-- Microsoft Excel
-- Power BI
-- Python
+
+* SQL (MySQL)
+* Microsoft Excel
+* Power BI
+* Python
 
 ### Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
 
-### Database
-- MySQL
+* Pandas
+* NumPy
+* Matplotlib
 
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+### Databases
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
 
 ## 📊 Featured Projects
 
-### Sales Performance Dashboard
-- Built an interactive Power BI dashboard to analyze sales performance and KPIs.
-- Created dynamic visualizations for business insights.
+### Sales Dashboard Analysis
+
+* Built an interactive Power BI dashboard to analyze sales trends and KPIs.
+* Developed visual reports for business decision-making.
 
 ### Customer Analytics Project
-- Used SQL and Python to analyze customer behavior and trends.
-- Performed data cleaning, aggregation, and reporting.
+
+* Used SQL and Python to analyze customer behavior and purchasing patterns.
+* Performed data cleaning and exploratory data analysis.
 
 ### HR Analytics Dashboard
-- Developed dashboards to monitor employee attrition, workforce distribution, and performance metrics.
+
+* Built dashboards to monitor attrition, workforce distribution, and employee performance.
 
 ### SQL Practice Repository
-- Solved 200+ SQL problems covering:
-  - Joins
-  - Window Functions
-  - CTEs
-  - Subqueries
-  - Aggregations
-  - Case Studies
+
+* Solved 200+ SQL problems covering:
+
+  * Joins
+  * Window Functions
+  * CTEs
+  * Subqueries
+  * Aggregations
+
+---
 
 ## 🏆 Achievements
 
-- Solved 200+ SQL Interview Questions
-- Active on HackerRank
-- Consistently building Data Analytics projects
-- Learning advanced analytical techniques
+* Solved 200+ SQL Problems
+* Active on HackerRank & LeetCode
+* Building End-to-End Data Analytics Projects
+* Continuously Learning Advanced Analytics Skills
+
+---
 
 ## 🌱 Currently Learning
 
-- Advanced SQL
-- Power BI DAX
-- Python for Data Analysis
-- ETL Concepts
-- Data Visualization Best Practices
+* Advanced SQL
+* Power BI DAX
+* Python for Data Analysis
+* ETL Concepts
+* Business Analytics
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/charul-agarwal-b4823a281/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/agarwalcharul510" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-</a>
-</p>
+---
 
 ## 💻 Languages & Tools
 
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="50" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
 </p>
+
+---
 
 ## 📈 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charulagarwal07&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=charulagarwal07&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=charulagarwal07&show_icons=true&locale=en" alt="github-stats" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charulagarwal07&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charulagarwal07" alt="streak-stats" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charulagarwal07&theme=tokyonight" />
 </p>
+
+---
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/agarwalcharul510?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=charulagarwal07&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
 
 ## 🎯 2026 Goals
 
-- Master SQL for Data Analytics
-- Build 10+ Portfolio Projects
-- Earn a Data Analyst Role
-- Contribute to Open Source Analytics Projects
-- Reach 500+ SQL Problems Solved
+* Master SQL for Data Analytics
+* Build 10+ Portfolio Projects
+* Reach 500+ SQL Problems Solved
+* Contribute to Open Source Analytics Projects
+* Secure a Data Analyst Role
 
 ⭐ If you like my projects, don't forget to star the repositories!
+
+
